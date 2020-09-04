@@ -5,7 +5,7 @@ This repository contains Python Notebooks (beginner-friendly) for Stock Analysis
 I have tried consolidating the code as much as possible so that there aren't numerous unintuitive notebooks.
 
 The Quant mainly focuses on pairs-trading strategy which is used by many industry professionals. 
-Pairs-Trading conventional models deal with co-relation and co-integration of time series but I have tried taking a more from-scratch approch instead of just calling the in-built Python functions so that the intricate workings are easily understood by the reader.
+Pairs-Trading conventional models deal with co-relation and co-integration of time series but I have tried taking a more from-scratch approach instead of just calling the in-built Python functions so that the intricate workings are easily understood by the reader.
 
 ## Pre-requisites?
 Pre-requisites for this project aren't many. Some of them are:

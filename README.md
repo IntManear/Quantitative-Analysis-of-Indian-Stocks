@@ -14,7 +14,7 @@ Pre-requisites for this project aren't many. Some of them are:
 3. Python basics. (Libraries: Numpy, Pandas and Matplotlib should serve as bare mininmum)
 
 ## Where can I get the Data?
-I was able to get my hands on private data (a company was kind enough tp share it with me). But, you may easily get the daailt ticker data from sites like NSE or Yahoo Finance.
+I was able to get my hands on private data (a company was kind enough tp share it with me). But, you may easily get the daily ticker data from sites like NSE or Yahoo Finance.
 Yahoo Finance has public APIs so you don't have to exlpicitly go out of your way yo get the data.
 
 ## What ahead?

@@ -21,7 +21,7 @@ Yahoo Finance has public APIs so you don't have to exlpicitly go out of your way
 These notbooks give a breif idea behind the Quantitative Analysis of Stocks done in the industry. When you're comfortable with these concepts, you can go ahead to do:
 
 1. Creating trading algorithms of your owm. Eg: Upstox in India offers AlgoLab service
-2. If you wannaa preactice further. I'd reccomend you checking out a platform called "Quantopian", it does a great job by providing your data as well as working environment.
+2. If you wanna preactice further. I'd recommend you check out a platform called "Quantopian", it does a great job by providing your data as well as working environment.
 3. Freelancing to create Quantitative models.
 
 ... and the list goes on.
